@@ -31,5 +31,4 @@
 /*.sln
 
 # I use this folder when doing a standalone build operation and Unity Editor asks for a folder.
-# I don't want to use the existing /Build/ or /Builds/ ignored folders to avoid potential conflicts.
 /MyBuildOutput/
